@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "What is Computer?",
+        "subtitle" : "A computer is a machine that is designed to perform a variety of tasks. ",
+        "image_url" : "https://cdn.pixabay.com/photo/2017/05/09/13/33/laptop-2298286__340.png",
+        "detail" : "A computer is an electronic device that can perform a wide range of tasks,  including storing, retrieving, and processing data. It typically includes a central     processingunit (CPU) and memory, as well as input and output devices such as a keyboard,   mouse, and monitor. There are many different types of computers, including desktops,   laptops, tablets, and smartphones, and they can be used for a wide variety of purposes,  such as word processing, playing games, browsing the internet, and managing data."
+    },
+    {
+        "title" : "What is Programming",
+        "subtitle" : "Programming is the process of designing and building an executable computer program to accomplish a specific computing task.",
+        "image_url" : "https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946__340.png",
+        "detail" : "Programming is the process of creating instructions that a computer can understand and execute. These instructions are called code, and they are written in a specific programming language, such as Python, Java, C++, or JavaScript. The code is then used to create software programs, applications, and systems that can perform a wide range of tasks, from simple calculations to complex data processing and analysis."
+    },
+    {
+        "title" : "What is Programmer?",
+        "subtitle" : "A programmer is a person who writes code using a programming language.",
+        "image_url" : "https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_960_720.png",
+        "detail" : "A programmer is a person who writes code using a programming language to create software programs,  applications, and systems. Programmers are responsible for writing the instructions that a computer can understand  and execute, and they use a variety of tools to write, test, and debug their code. They use programming languages  such as Python, Java, C++, and JavaScript to create programs that can perform a wide range of tasks, from simple   to complex data processing and analysis."
+    }
+]
